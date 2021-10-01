@@ -5,7 +5,7 @@ function initMap() {
 			lng: 78.31503755499409,
 		},
 		zoom: 12,
-		mapId: '6941efe31b6baed7',
+		mapId: 'map_id',
 		mapTypeControl: false,
 		fullscreenControl: false,
 		streetViewControl: false,
